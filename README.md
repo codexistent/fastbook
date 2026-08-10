@@ -35,4 +35,6 @@ year={2020},
 publisher={O'Reilly Media, Incorporated}
 }
 ```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codexistent/fastbook/HEAD)
+
 
