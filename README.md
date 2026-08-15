@@ -1,3 +1,20 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codexistent/fastbook/HEAD)
+# Hello!
+
+This is a fork of Jeremy Howard and Sylvain Gugger's fastai book. Everything in this repo is written by them, except for:
+- My annotated notes on each of the chapters
+- The file `!my_deliverables.md` which contains links/info on the following deliverables which resulted from this course:
+  - Documentation, including any bugs which ocurred and their fixes
+  - Projects
+  - Kaggle notebooks
+  - etc.
+
+All content in this `md` file from this sentence onwards is by the fastai authors.
+
+-
+-
+-
+
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md) / [Japanese](./README_ja.md)
 
 # The fastai book
@@ -35,6 +52,5 @@ year={2020},
 publisher={O'Reilly Media, Incorporated}
 }
 ```
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codexistent/fastbook/HEAD)
 
 
