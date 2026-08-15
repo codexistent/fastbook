@@ -3,3 +3,4 @@ Links to all documentation, Kaggle notebooks, projects, or repos I created acros
 - **Lesson 2:**
   - Model deployed to HF Space: https://huggingface.co/spaces/codexistent/panda-or-bear
   - Debugging notes: https://codexistent.github.io/2026/08/14/a-book-rec-among-other-stuff.html
+  - Created Leep Dearning, added panda or grizzly image classifier: https://codexistent.github.io/leep-dearning/
